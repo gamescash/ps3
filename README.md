@@ -1,0 +1,37 @@
+GAMESCASH AUTO FLASH PS3
+
+BEWARE!!! A new "toolset" sends your ENTIRE flash to their site for "verification". Use the websites and tools below for SAFE jailbreaking!
+
+Visit [ps3xploit.me](http://www.ps3xploit.me/) for official PS3HEN.
+
+Visit [ps3toolset.com](https://www.ps3toolset.com) for official BGToolset.
+
+Visit [PSX-Place forums](https://www.psx-place.com/forums) for help and news.
+
+# NEW!!! [Easiest HEN Install Method](http://ps3addict.github.io/easyhen) 2026!!!
+
+# lmn7's [Auto HEN](https://ps3addict.github.io/autohen) Installer
+
+Currently installing HEN 3.4.0 on HFW 4.92
+    and HEN 3.3.0 on HFW 4.87 to 4.91
+
+# PS3HEN [Alternate](https://ps3addict.github.io/alternate) Installer
+
+Currently installing HEN 3.5.0 on OFW 4.80 to 4.82
+    and HFW 4.83 to 4.93
+
+# Unofficial [Flash Writer](https://ps3addict.github.io/writer/) for HFW
+
+   Emergency alternative to BGToolset supporting HFW 4.90, 4.91, & 4.93
+
+# My [PS3 Guides](https://ps3addict.github.io/guides.html) At Psx-Place Forum
+
+# Various [HEN Enablers](https://ps3addict.github.io/enablehen) (4.80 to 4.93)
+
+# HFW pup file download links [here](https://ps3addict.github.io/firmware)
+
+# PS3Tools by Aldostools [download](https://ps3addict.github.io/install_ps3tools_4.8.1.exe)
+
+# How to enter Safe Mode (Recovery) [instructions](https://ps3addict.github.io/safemode)
+
+# COPYRIGHT RESERVED TO GAMESCASH
